@@ -1,0 +1,343 @@
+2025-07-06T09:25:42.996419 - rapid_movements - Detected 1 rapid movements
+2025-07-06T09:25:53.065559 - rapid_movements - Detected 1 rapid movements
+2025-07-06T09:25:58.123255 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T09:26:05.612734 - rapid_movements - Detected 1 rapid movements
+2025-07-06T09:26:10.618297 - rapid_movements - Detected 1 rapid movements
+2025-07-06T09:26:15.741942 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T09:26:40.830866 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T09:26:45.973963 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T09:26:53.666383 - rapid_movements - Detected 1 rapid movements
+2025-07-06T09:26:58.764523 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T09:27:03.843049 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T09:27:08.880837 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T09:34:18.587542 - rapid_movements - Detected 2 rapid movements
+2025-07-06T09:34:23.606763 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T09:34:28.640508 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T09:34:34.174655 - rapid_movements - Detected 4 rapid movements
+2025-07-06T09:34:39.199802 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T09:34:44.412398 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T09:34:52.187265 - rapid_movements - Detected 1 rapid movements
+2025-07-06T09:34:57.204940 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T09:35:02.270484 - rapid_movements - Detected 4 rapid movements
+2025-07-06T09:35:07.283830 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T09:35:12.310593 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T09:35:18.786670 - rapid_movements - Detected 2 rapid movements
+2025-07-06T09:35:23.836676 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T09:35:52.302631 - rapid_movements - Detected 1 rapid movements
+2025-07-06T09:35:57.593791 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T09:36:03.257045 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T09:36:11.659415 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T09:36:16.720331 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:16:27.632425 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:16:32.714984 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:16:37.782340 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:16:44.116871 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:16:49.234855 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:17:04.608729 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:17:10.806552 - rapid_movements - Detected 2 rapid movements
+2025-07-06T10:17:18.543144 - rapid_movements - Detected 4 rapid movements
+2025-07-06T10:17:31.512499 - rapid_movements - Detected 2 rapid movements
+2025-07-06T10:17:47.409501 - immobility - Freezing episode detected (duration: 10.1s)
+2025-07-06T10:17:53.273639 - immobility - Freezing episode detected (duration: 15.9s)
+2025-07-06T10:17:58.283568 - immobility - Freezing episode detected (duration: 20.9s)
+2025-07-06T10:18:08.705509 - rapid_movements - Detected 2 rapid movements
+2025-07-06T10:18:17.267951 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:18:22.593076 - rapid_movements - Detected 3 rapid movements
+2025-07-06T10:18:28.575732 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:18:34.560329 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:18:55.203122 - rapid_movements - Detected 2 rapid movements
+2025-07-06T10:19:00.383213 - rapid_movements - Detected 2 rapid movements
+2025-07-06T10:19:06.106643 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:19:15.101885 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:19:20.265108 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:19:26.817229 - rapid_movements - Detected 5 rapid movements
+2025-07-06T10:19:31.836819 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:19:42.588596 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:19:57.556629 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:20:16.562490 - immobility - Freezing episode detected (duration: 11.0s)
+2025-07-06T10:20:29.587658 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:20:35.569110 - rapid_movements - Detected 3 rapid movements
+2025-07-06T10:20:52.566816 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:20:57.568544 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:21:03.551388 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:21:08.559488 - rapid_movements - Detected 2 rapid movements
+2025-07-06T10:21:14.551675 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:21:19.559022 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:21:25.551408 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:21:30.557191 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:21:36.575202 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:21:42.554895 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:22:06.587034 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:22:12.563660 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:22:19.575056 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:22:25.555578 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:22:31.562560 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:22:37.552788 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:22:42.555072 - rapid_movements - Detected 3 rapid movements
+2025-07-06T10:22:47.564310 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:22:53.551289 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:23:29.551507 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:23:34.552428 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:23:41.558382 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:23:46.597191 - rapid_movements - Detected 2 rapid movements
+2025-07-06T10:23:51.605532 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:23:58.550721 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:24:04.577878 - rapid_movements - Detected 3 rapid movements
+2025-07-06T10:24:13.551459 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:24:18.567838 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:24:24.565825 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:24:29.570100 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:24:35.554231 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:24:41.554752 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:24:54.596035 - rapid_movements - Detected 3 rapid movements
+2025-07-06T10:24:59.603524 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:25:10.547995 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:25:15.570862 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:25:21.551623 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:25:30.559434 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:25:36.549470 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:25:48.566530 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:25:54.559310 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:26:02.552850 - rapid_movements - Detected 2 rapid movements
+2025-07-06T10:26:08.564447 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:26:13.572313 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:26:19.567763 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:26:25.552609 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:26:50.544576 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:26:55.560305 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:27:01.555421 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:27:07.567686 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:27:13.558025 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:27:18.564760 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:27:24.543446 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:27:29.593141 - rapid_movements - Detected 3 rapid movements
+2025-07-06T10:27:35.545546 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:27:40.550532 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:27:46.546049 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:27:51.551005 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:27:57.548418 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:28:02.562126 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:28:07.563454 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:28:13.550369 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:28:19.556095 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:28:25.553702 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:28:30.556712 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:28:37.557571 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:28:42.573566 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:28:48.549453 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:28:53.553996 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:29:01.584333 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:29:07.555802 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:29:13.569073 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:29:19.553862 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:29:24.562108 - rapid_movements - Detected 3 rapid movements
+2025-07-06T10:29:30.553080 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:29:37.546594 - rapid_movements - Detected 2 rapid movements
+2025-07-06T10:29:42.564081 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:29:48.549795 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:29:54.546709 - rapid_movements - Detected 3 rapid movements
+2025-07-06T10:29:59.552040 - rapid_movements - Detected 2 rapid movements
+2025-07-06T10:30:05.547772 - rapid_movements - Detected 3 rapid movements
+2025-07-06T10:30:10.550860 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:30:16.545226 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:30:21.556192 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:30:26.557249 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:30:32.548979 - rapid_movements - Detected 4 rapid movements
+2025-07-06T10:30:37.550073 - rapid_movements - Detected 2 rapid movements
+2025-07-06T10:30:44.546050 - rapid_movements - Detected 2 rapid movements
+2025-07-06T10:30:49.547684 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:30:54.561904 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:31:00.549071 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:31:05.554724 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:31:10.571510 - rapid_movements - Detected 3 rapid movements
+2025-07-06T10:31:16.554411 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:31:22.546118 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:31:27.591263 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:31:33.554866 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:31:38.576812 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:31:44.556507 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:31:50.551483 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:31:55.568497 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:32:01.556998 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:32:12.612168 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:32:23.653941 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:32:29.557182 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:32:34.557799 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:32:39.572508 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:32:45.601990 - rapid_movements - Detected 4 rapid movements
+2025-07-06T10:32:51.591346 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:32:57.568035 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:33:03.590849 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:33:10.553030 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:33:15.554140 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:33:20.584827 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:33:26.562949 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:33:31.566428 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:33:37.574432 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:33:43.569110 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:33:49.570818 - rapid_movements - Detected 4 rapid movements
+2025-07-06T10:33:55.565823 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:34:01.554988 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:34:07.557092 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:34:13.554131 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:34:18.575399 - rapid_movements - Detected 4 rapid movements
+2025-07-06T10:34:30.612053 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:34:36.552852 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:34:41.561884 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:34:47.586936 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:34:53.552764 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:34:58.569745 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:35:04.561059 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:35:09.564739 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:35:15.558049 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:35:20.560663 - rapid_movements - Detected 3 rapid movements
+2025-07-06T10:35:26.542947 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:35:31.565871 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:35:37.553716 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:35:43.560217 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:35:49.548970 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:35:55.556962 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:36:01.603960 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:36:07.557325 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:36:13.580718 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T10:36:19.554365 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:36:35.573359 - immobility - Freezing episode detected (duration: 10.0s)
+2025-07-06T10:36:47.554626 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:37:00.570148 - rapid_movements - Detected 3 rapid movements
+2025-07-06T10:37:06.557126 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:37:11.558436 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:37:17.569998 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:37:48.574982 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:37:54.573655 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:38:00.555587 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:38:10.549242 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:38:16.549112 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:38:21.567575 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:38:33.107303 - rapid_movements - Detected 2 rapid movements
+2025-07-06T10:38:38.340169 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:38:43.393602 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:38:49.236841 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:38:54.247835 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T10:38:59.568951 - rapid_movements - Detected 1 rapid movements
+2025-07-06T10:39:05.329311 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:32:55.755671 - rapid_movements - Detected 1 rapid movements
+2025-07-06T11:33:00.760598 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:33:06.304909 - rapid_movements - Detected 1 rapid movements
+2025-07-06T11:33:11.361400 - rapid_movements - Detected 1 rapid movements
+2025-07-06T11:33:19.468785 - rapid_movements - Detected 1 rapid movements
+2025-07-06T11:33:24.499959 - rapid_movements - Detected 2 rapid movements
+2025-07-06T11:33:29.682903 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:33:34.941386 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:33:39.961427 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:33:45.025980 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:33:50.050835 - rapid_movements - Detected 1 rapid movements
+2025-07-06T11:33:59.231320 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:34:04.312465 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:34:09.538269 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:34:25.418891 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:34:30.463231 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:34:35.475160 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:34:40.516386 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:34:45.573265 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:34:50.648118 - rapid_movements - Detected 4 rapid movements
+2025-07-06T11:34:55.668141 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T11:35:00.674201 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T11:35:05.840300 - rapid_movements - Detected 3 rapid movements
+2025-07-06T11:35:10.867883 - rapid_movements - Detected 3 rapid movements
+2025-07-06T11:35:15.941097 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T11:35:20.955717 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T11:35:26.042862 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:35:31.085743 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T11:35:36.089166 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:35:41.124557 - rapid_movements - Detected 4 rapid movements
+2025-07-06T11:35:46.257593 - rapid_movements - Detected 1 rapid movements
+2025-07-06T11:36:22.690391 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:36:27.716243 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T11:36:32.784532 - rapid_movements - Detected 3 rapid movements
+2025-07-06T11:36:37.786869 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:36:42.879453 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:36:47.954483 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:36:52.981159 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:36:58.007009 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:37:03.012774 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:53:37.118893 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T11:53:42.252658 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:53:47.827811 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T11:53:52.927755 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:53:57.989233 - rapid_movements - Detected 2 rapid movements
+2025-07-06T11:54:03.079372 - rapid_movements - Detected 3 rapid movements
+2025-07-06T11:54:08.124003 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:54:13.241537 - rapid_movements - Detected 1 rapid movements
+2025-07-06T11:54:18.285212 - rapid_movements - Detected 2 rapid movements
+2025-07-06T11:54:23.285641 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T11:54:29.501201 - rapid_movements - Detected 1 rapid movements
+2025-07-06T11:54:34.505231 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:54:39.513234 - rapid_movements - Detected 1 rapid movements
+2025-07-06T11:54:44.540855 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:54:49.542959 - rapid_movements - Detected 3 rapid movements
+2025-07-06T11:54:54.550613 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:54:59.640047 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:55:04.673404 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:55:09.684986 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:55:14.836357 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:55:21.646331 - rapid_movements - Detected 1 rapid movements
+2025-07-06T11:55:27.515266 - rapid_movements - Detected 1 rapid movements
+2025-07-06T11:55:32.553219 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:55:38.508808 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:55:43.528400 - rapid_movements - Detected 2 rapid movements
+2025-07-06T11:55:48.558838 - rapid_movements - Detected 3 rapid movements
+2025-07-06T11:56:05.515720 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:56:10.562554 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:56:15.632712 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:56:20.635956 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:56:25.636040 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:56:30.689367 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:56:35.914478 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T11:56:42.229460 - rapid_movements - Detected 2 rapid movements
+2025-07-06T11:56:47.235952 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T11:56:55.064852 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T11:57:00.260563 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T11:57:05.273474 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-06T11:57:10.420615 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:57:15.425745 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:57:20.428013 - rapid_movements - Detected 2 rapid movements
+2025-07-06T11:57:25.434674 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:57:30.469848 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:57:35.475457 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:57:41.531122 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:57:53.060755 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:57:58.061123 - rapid_movements - Detected 4 rapid movements
+2025-07-06T11:58:03.066307 - rapid_movements - Detected 2 rapid movements
+2025-07-06T11:58:08.119805 - rapid_movements - Detected 2 rapid movements
+2025-07-06T11:58:13.258343 - rapid_movements - Detected 1 rapid movements
+2025-07-06T11:58:18.307407 - rapid_movements - Detected 3 rapid movements
+2025-07-06T11:58:23.312899 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:58:28.457213 - rapid_movements - Detected 3 rapid movements
+2025-07-06T11:58:33.500594 - rapid_movements - Detected 3 rapid movements
+2025-07-06T11:58:38.543860 - rapid_movements - Detected 1 rapid movements
+2025-07-06T11:58:44.263375 - rapid_movements - Detected 2 rapid movements
+2025-07-06T11:58:50.273412 - rapid_movements - Detected 2 rapid movements
+2025-07-06T11:58:59.276774 - rapid_movements - Detected 1 rapid movements
+2025-07-06T11:59:04.290037 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-06T11:59:09.524867 - rapid_movements - Detected 1 rapid movements
+2025-07-09T10:37:02.714255 - rapid_movements - Detected 1 rapid movements
+2025-07-09T10:37:07.815723 - rapid_movements - Detected 1 rapid movements
+2025-07-09T10:37:12.861334 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-09T10:37:17.943901 - seizure_patterns - Detected Tonic-clonic seizure with rhythmic movements seizure pattern
+2025-07-09T10:37:22.946571 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-09T10:37:27.961113 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-09T10:37:33.020508 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-09T10:37:38.074352 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-09T10:37:43.077533 - rapid_movements - Detected 3 rapid movements
+2025-07-09T10:37:48.596043 - rapid_movements - Detected 1 rapid movements
+2025-07-09T10:37:53.666144 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-09T10:37:58.688506 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-09T10:38:35.461369 - rapid_movements - Detected 3 rapid movements
+2025-07-09T10:38:40.472670 - rapid_movements - Detected 1 rapid movements
+2025-07-09T10:38:45.510323 - rapid_movements - Detected 1 rapid movements
+2025-07-09T10:38:52.686132 - rapid_movements - Detected 1 rapid movements
+2025-07-09T10:38:57.716219 - rapid_movements - Detected 4 rapid movements
+2025-07-09T10:39:02.797167 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-09T10:39:07.830753 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-09T10:39:12.925728 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern
+2025-07-09T10:39:17.988605 - seizure_patterns - Detected Atonic seizure with sudden loss of muscle tone seizure pattern

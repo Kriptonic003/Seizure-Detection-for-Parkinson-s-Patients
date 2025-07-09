@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seizure Detection for Parkinson's Patients</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Seizure Detection for Parkinson's Patients</h1>
+            <p class="description">
+                Real-time monitoring system using computer vision to detect seizures and abnormal movements 
+                in Parkinson's patients through CCTV footage analysis.
+            </p>
+        </header>
+
+        <main>
+            <div class="video-section">
+                <h2>Live Video Feed</h2>
+                <div class="video-container">
+                    <video id="videoFeed" autoplay muted>
+                        Your browser does not support the video tag.
+                    </video>
+                    <div class="video-overlay">
+                        <div class="status-indicator" id="statusIndicator">
+                            <span class="status-text" id="statusText">Monitoring...</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="video-controls">
+                    <button id="startBtn" class="btn btn-primary">Start Monitoring</button>
+                    <button id="stopBtn" class="btn btn-secondary" disabled>Stop Monitoring</button>
+                </div>
+                <div class="detection-info">
+                    <h3>Pose Detection Features</h3>
+                    <ul>
+                        <li><strong>33 Body Keypoints:</strong> Head, shoulders, arms, legs, and joints</li>
+                        <li><strong>Real-time Analysis:</strong> Movement velocity and pattern detection</li>
+                        <li><strong>Fall Detection:</strong> Horizontal body position monitoring</li>
+                        <li><strong>Seizure Patterns:</strong> Tonic-clonic, myoclonic, and atonic detection</li>
+                        <li><strong>Freezing Episodes:</strong> Immobility detection for Parkinson's symptoms</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="alerts-section">
+                <h2>Detection Alerts</h2>
+                <div class="alert-log" id="alertLog">
+                    <div class="no-alerts">No alerts detected yet</div>
+                </div>
+                <div class="alert-stats">
+                    <div class="stat-item">
+                        <span class="stat-label">Total Alerts:</span>
+                        <span class="stat-value" id="totalAlerts">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Last Alert:</span>
+                        <span class="stat-value" id="lastAlert">None</span>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2024 Seizure Detection System for Parkinson's Patients</p>
+        </footer>
+    </div>
+
+    <script src="https://cdn.socket.io/4.7.5/socket.io.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
